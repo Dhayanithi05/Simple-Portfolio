@@ -14,3 +14,4 @@ A sleek, responsive, and fully customizable personal portfolio template designed
 - Easy to set up and maintain, even for those with basic web development knowledge.  
 
 Elevate your online presence with this clean, user-friendly portfolio template and leave a lasting impression on potential clients, employers, and collaborators!
+![Screenshot 2024-11-18 154804](https://github.com/user-attachments/assets/bcaea420-656f-4045-8122-f2748e2cb8ad)
